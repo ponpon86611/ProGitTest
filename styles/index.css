@@ -9,3 +9,8 @@ h1 {
     color :chocolate;
 }
 
+h2 {
+    color: green;
+    border: 2px solid pink;
+}
+
